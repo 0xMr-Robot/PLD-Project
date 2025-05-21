@@ -1,0 +1,40 @@
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.csproj.AssemblyReference.cache
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold_parser3.Form1.resources
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.csproj.GenerateResource.cache
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.AssemblyInfoInputs.cache
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.AssemblyInfo.cs
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.csproj.CoreCompileInputs.cache
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.exe
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.deps.json
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.runtimeconfig.json
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.dll
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.pdb
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\CalithaLib.dll
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\GoldParserEngine.dll
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold par.E0ED2750.Up2Date
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.dll
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\refint\Gold parser3.dll
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.pdb
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.genruntimeconfig.cache
+C:\Users\Hanin Baher\source\repos\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\ref\Gold parser3.dll
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold_parser3.Form1.resources
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.csproj.GenerateResource.cache
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.AssemblyInfoInputs.cache
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.AssemblyInfo.cs
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.csproj.CoreCompileInputs.cache
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.dll
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\refint\Gold parser3.dll
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.pdb
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.exe
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.deps.json
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.runtimeconfig.json
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.dll
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\Gold parser3.pdb
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\CalithaLib.dll
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\bin\Debug\net8.0-windows\GoldParserEngine.dll
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.csproj.AssemblyReference.cache
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold par.E0ED2750.Up2Date
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\Gold parser3.genruntimeconfig.cache
+D:\Work\3rd Projects\PLD\Gold parser3\Gold parser3\obj\Debug\net8.0-windows\ref\Gold parser3.dll
